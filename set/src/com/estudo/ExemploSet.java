@@ -2,7 +2,7 @@ package com.estudo;
 
 import java.util.*;
 
-public class Main {
+public class ExemploSet {
 
     public static void main(String[] args) {
         //Dado um lista com 7 notas de um aluno [7, 8.5, 9.3, 5, 7, 0, 3.6], faça:
