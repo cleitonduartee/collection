@@ -1,6 +1,6 @@
 # 👨‍💻 Curso sobre _Collection_ do _JAVA_ 👨‍💻
 
-### Curso realizado na plataforma DIO (Digital Innovation One) com a professora: Camila. 😃😃
+### Curso realizado na plataforma DIO (Digital Innovation One) com a professora: Camila.😃😃
 
 
 **_Click para realizar o download do certificado 👉👉_**  [Collections.pdf](https://github.com/cleitonduartee/projeto-sds3/files/7876511/Collections.pdf)
